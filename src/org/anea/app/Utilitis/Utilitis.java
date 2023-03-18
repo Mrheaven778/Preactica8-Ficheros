@@ -84,7 +84,8 @@ public class Utilitis {
      */
     public static String pedirDato() {
         String dato = "";
-        try(BufferedReader bufferedReader = new BufferedReader(new java.io.InputStreamReader(System.in))) {
+        try {
+            BufferedReader bufferedReader = new BufferedReader(new java.io.InputStreamReader(System.in));
             dato = bufferedReader.readLine();
         } catch (IOException e) {
             System.out.println("Error al leer el dato");
