@@ -35,5 +35,6 @@ public class Main {
         MostrarPantalla.mostrarMediaHijos(costeEmpleados.getEmpleados());
         MostrarPantalla.mostrarNumeorEmpleadosCategorio(costeEmpleados.getEmpleados());
         MostrarPantalla.mostrarEmpleadoMayorSueldo(costeEmpleados.getEmpleados());
+
     }
 }
