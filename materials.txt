@@ -1,0 +1,1 @@
+Portatil tipo 1,5,Portatil tipo 2,4,Portatil tipo 3,6,Portatil tipo 4,7,Telefono tipo 1,6,Coche,6,Telefono tipo 2,7
